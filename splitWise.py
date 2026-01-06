@@ -13,7 +13,6 @@ class SplitWise:
             "asok" : 0
         }
 
-
         total_exp = sum(payment_summary.values())
 
         print(f"Total amount : {total_exp}")
